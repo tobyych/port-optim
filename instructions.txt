@@ -1,0 +1,8 @@
+Dependencies: cmake(https://cmake.org/download/)
+
+Instructions to build the executable in shell
+(1) cd {path-containing-this-instruction-file}
+(2) cd ./build
+(3) cmake ..
+(4) make
+(5) ./PortOptim
